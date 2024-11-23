@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm Mirelda Diker
 
-<!--
-**Mirelda/Mirelda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 **Business Analyst transitioning into Full Stack Development**
+- 🌍 Based in Ontario, Canada
+- 💻 Currently exploring **React**, **Node.js**, and **MongoDB**
+- 🌱 Always learning and growing, both professionally and personally
 
-Here are some ideas to get you started:
+## What I'm Working On
+- 🚀 Building user-friendly web applications
+- 🌐 Enhancing my backend development skills
+- 📊 Bridging business needs with technical solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect!
+- 🌐 [LinkedIn](https://www.linkedin.com/in/mireldadiker)
+- 📧 Email: mireldadiker@gmail.com
