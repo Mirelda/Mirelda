@@ -1,9 +1,9 @@
-# Hi there! 👋 I'm Mirelda Diker
+# Hi there! 👋 I'm Mirelda 
 
 ## About Me
 - 🎓 **Business Analyst transitioning into Full Stack Development**
 - 🌍 Based in Ontario, Canada
-- 💻 Currently exploring **React**, **Node.js**, and **MongoDB**
+- 💻 Currently exploring **React**, **Node.js**
 - 🌱 Always learning and growing, both professionally and personally
 
 ## What I'm Working On
